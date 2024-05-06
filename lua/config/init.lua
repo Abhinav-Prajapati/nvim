@@ -26,7 +26,7 @@ local opts = {
 			"gzip",
 			"matchit",
 			"matchparen",
-			"netrw", "netrwPlugin",
+			"netrw", "netrwPlugin", -- disable netrw the default file brouser of nvim/vim
 			"tarPlugin",
 			"tohtml",
 			"tutor",
